@@ -32,6 +32,3 @@ npm install
 npm run dev
 ```
 
-## Contributors
-- Aflaha.A
-- Thoufeeq pp
